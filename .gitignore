@@ -1,0 +1,6 @@
+notebooks/input
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+snippets.txt
+tags
