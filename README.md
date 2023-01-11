@@ -15,6 +15,7 @@ External data sets used from ChEMBL, Drugbank and Enamine are not included in th
 ### Installation
 
 The installation has only been tested on Linux (Ubuntu 22.04).
+Typical install time using the `conda` package manager: < 15min.
 
 1. Clone this repo and change into the directory
 1. Create a new conda environment, install the dependencies and activate the environment:
