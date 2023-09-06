@@ -3,7 +3,7 @@
 This repository contains the Jupyter Notebooks that were used to perform the cheminformatics analyses and generate the respective plots for the paper:
 
 **A divergent intermediate strategy yields biologically diverse pseudo-natural products**  
-Sukdev Bag, Michael Grigalunas, Jie Liu, Sohan Dilip Patil, Jana Bonowski, Beate Schölermann, Lin Wang, Axel Pahl, Sonja Sievers, Lukas Brieger, Carsten Strohmann, Slava Ziegler, and Herbert Waldmann*
+Sukdev Bag,  Jie Liu, Sohan Dilip Patil, Jana Bonowski, Sandra Koska, Beate Schölermann, Lin Wang, Axel Pahl, Sonja Sievers, Lukas Brieger, Carsten Strohmann, Slava Ziegler, Michael Grigalunas, and Herbert Waldmann*
 
 It also contains a set of Notebook helper utilities (`jupy_tools/utils`) and scripts for compound structure standardization and filtering (`stand_struct.py`) as well as for the calculation of PMI values (under `python_scripts`).
 
